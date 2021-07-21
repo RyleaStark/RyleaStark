@@ -1,16 +1,27 @@
-### Hi there 👋
+#### Hi there 👋, I'm [Rylea Stark](https://ryleastark.com)
 
-<!--
-**RyleaStark/RyleaStark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Passionate about providing ultra-local, fast web hosting; Developing software that works reliably and securely. 
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=ryleastark&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" align="right">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [@VersoBit](https://github.com/VersoBit) Director.
+- [@petio-team](https://github.com/petio-team) developer, tester, and sponsor.
+
+**Where to find me...**
+
+- :iphone: [My Website](https://ryleastark.com)
+- :bulb: [Twitter](https://twitter.com/RyleaStark)
+- :mega: [Telegram](https://t.me/s/RyleaStark)
+- :email: [E-Mail](mailto:me_at_ryleastark_com)
+
+**You're probably looking for...**
+
+- I helped designed the [WeatherDoge](https://github.com/VersoBit/WeatherDoge) application for Android Devices.
+- XenForo addons such as [XF-Badges](https://github.com/VersoBit/XF-Badges).
+
+**You _might_ know me from some of my previous projects...**
+
+- **Rivr** was a social media platform built when I was in high school, we served multiple countries with a high level of success. We unfortunately closed Rivr's doors late 2012.
+- **imagineLayer** provided managed hosting enviroments for UK customers, it was eventually shutdown and transformed into **[@VersoBit](https://github.com/VersoBit)** where we now service customers primarily in Canada.
+
+Find out more of my awesome projects below, or subscribe me by clicking the "Follow" button.
