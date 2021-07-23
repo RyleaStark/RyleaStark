@@ -4,7 +4,7 @@
 
 <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=ryleastark&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" align="right">
 
-- [@VersoBit](https://github.com/VersoBit) Director.
+- [@VersoBit](https://github.com/VersoBit) director.
 - [@petio-team](https://github.com/petio-team) developer, tester, and sponsor.
 
 **Where to find me...**
@@ -16,7 +16,7 @@
 
 **You're probably looking for...**
 
-- I helped designed the [WeatherDoge](https://github.com/VersoBit/WeatherDoge) application for Android Devices.
+- I helped design the [WeatherDoge](https://github.com/VersoBit/WeatherDoge) application for Android Devices.
 - XenForo addons such as [XF-Badges](https://github.com/VersoBit/XF-Badges).
 
 **You _might_ know me from some of my previous projects...**
