@@ -24,4 +24,7 @@
 - **Rivr** was a social media platform built when I was in high school, we served multiple countries with a high level of success. We unfortunately closed Rivr's doors late 2012.
 - **imagineLayer** provided managed hosting enviroments for UK customers, it was eventually shutdown and transformed into **[@VersoBit](https://github.com/VersoBit)** where we now service customers primarily in Canada.
 
+**Or you _might_ know me from some of my other projects like...**
+- [Fellowsfilm](https://fellowsfilm.com/) - a leading OMSI2 Mod Repository serving the UK/EU Region. We provide a high-quality, safe archive for the greater simulation commuinity and have previously worked with Aerosoft and SCS Software!
+
 Find out more of my awesome projects below, or subscribe me by clicking the "Follow" button.
