@@ -6,6 +6,7 @@
 
 - [@VersoBit](https://github.com/VersoBit) director.
 - [@petio-team](https://github.com/petio-team) developer, tester, and sponsor.
+- [@Fellowsfilm] operator, developer.
 
 **Where to find me...**
 
