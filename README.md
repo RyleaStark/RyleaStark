@@ -2,7 +2,7 @@
 
 > Passionate about providing ultra-local, fast web hosting; Developing software that works reliably and securely. 
 
-<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=ryleastark&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" align="right">
+<img src="https://github-readme-stats-mrdulin.vercel.app/api?username=ryleastark&show_icons=true&hide_border=true&count_private=true&theme=cobalt&hide=stars" align="right">
 
 - [@VersoBit](https://github.com/VersoBit) director.
 - [@petio-team](https://github.com/petio-team) developer, tester, and sponsor.
