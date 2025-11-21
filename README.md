@@ -12,8 +12,6 @@
 
 - :iphone: [My Website](https://ryleastark.com)
 - :bulb: [Twitter](https://twitter.com/RyleaStark)
-- :mega: [Telegram](https://t.me/s/RyleaStark)
-- :email: [E-Mail](mailto:me_at_ryleastark_com)
 
 **You're probably looking for...**
 
