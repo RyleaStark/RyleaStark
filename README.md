@@ -1,29 +1,24 @@
-#### Hi there 👋, I'm [Rylea Stark](https://ryleastark.com)
+# Rylea Stark
 
-> Passionate about providing ultra-local, fast web hosting; Developing software that works reliably and securely. 
+Developer, open-source contributor, and infrastructure builder focused on dependable web platforms, self-hosting, and automation.
 
-<img src="https://github-readme-stats-mrdulin.vercel.app/api?username=ryleastark&show_icons=true&hide_border=true&count_private=true&theme=cobalt&hide=stars" align="right">
+I care about software that is reliable, secure, maintainable, and useful to the communities it serves.
 
-- [@VersoBit](https://github.com/VersoBit) director.
-- [@petio-team](https://github.com/petio-team) developer, tester, and sponsor.
-- [@Fellowsfilm](https://github.com/Fellowsfilm) operator, developer.
+## Current work
 
-**Where to find me...**
+- Director at [VersoBit](https://github.com/VersoBit), building and operating web software and infrastructure.
+- Operator and developer at [Fellowsfilm](https://github.com/Fellowsfilm), supporting a long-running simulation community and mod archive.
+- Developer, tester, and sponsor with the [Petio](https://github.com/petio-team) project.
+- Building self-hosted tools such as [lnSwitchboard](https://github.com/RyleaStark/lnSwitchboard) and [Extended Umbrella](https://github.com/RyleaStark/extended-umbrella).
 
-- :iphone: [My Website](https://ryleastark.com)
-- :bulb: [Twitter](https://twitter.com/RyleaStark)
+## Areas of interest
 
-**You're probably looking for...**
+- Web application and backend development
+- Self-hosted services and infrastructure automation
+- Privacy-conscious, resilient systems
+- Open-source and community-driven software
 
-- I helped design the [WeatherDoge](https://github.com/VersoBit/WeatherDoge) application for Android Devices.
-- XenForo addons such as [XF-Badges](https://github.com/VersoBit/XF-Badges).
+## Connect
 
-**You _might_ know me from some of my previous projects...**
-
-- **Rivr** was a social media platform built when I was in high school, we served multiple countries with a high level of success. We unfortunately closed Rivr's doors late 2012.
-- **imagineLayer** provided managed hosting enviroments for UK customers, it was eventually shutdown and transformed into **[@VersoBit](https://github.com/VersoBit)** where we now service customers primarily in Canada.
-
-**Or you _might_ know me from some of my other projects like...**
-- [Fellowsfilm](https://fellowsfilm.com/) - a leading OMSI2 Mod Repository serving the UK/EU Region. We provide a high-quality, safe archive for the greater simulation commuinity and have previously worked with Aerosoft and SCS Software!
-
-Find out more of my awesome projects below, or subscribe me by clicking the "Follow" button.
+- [Website](https://ryleastark.com)
+- [X / Twitter](https://x.com/RyleaStark)
