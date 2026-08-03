@@ -1,24 +1,25 @@
-# Rylea Stark
+#### Hi there 👋, I'm [Rylea Stark](https://ryleastark.com)
 
-Developer, open-source contributor, and infrastructure builder focused on dependable web platforms, self-hosting, and automation.
+> Developer, open-source contributor, and infrastructure builder focused on dependable web platforms, self-hosting, and automation.
 
-I care about software that is reliable, secure, maintainable, and useful to the communities it serves.
+<img src="https://github-readme-stats-mrdulin.vercel.app/api?username=RyleaStark&show_icons=true&hide_border=true&count_private=true&theme=cobalt&hide=stars" alt="Rylea Stark's GitHub stats" align="right">
 
-## Current work
+**What I'm working on...**
 
-- Director at [VersoBit](https://github.com/VersoBit), building and operating web software and infrastructure.
-- Operator and developer at [Fellowsfilm](https://github.com/Fellowsfilm), supporting a long-running simulation community and mod archive.
-- Developer, tester, and sponsor with the [Petio](https://github.com/petio-team) project.
+- Building [Lonks](https://lonks.io), an audience engagement platform and AI-powered toolkit for online creators.
+- Directing [VersoBit](https://github.com/VersoBit), where I build and operate web software and infrastructure.
+- Operating and developing [Fellowsfilm](https://github.com/Fellowsfilm), a long-running simulation community and mod archive.
+- Developing, testing, and sponsoring the [Petio](https://github.com/petio-team) project.
 - Building self-hosted tools such as [lnSwitchboard](https://github.com/RyleaStark/lnSwitchboard) and [Extended Umbrella](https://github.com/RyleaStark/extended-umbrella).
 
-## Areas of interest
+**My focus...**
 
 - Web application and backend development
 - Self-hosted services and infrastructure automation
 - Privacy-conscious, resilient systems
 - Open-source and community-driven software
 
-## Connect
+**Where to find me...**
 
-- [Website](https://ryleastark.com)
-- [X / Twitter](https://x.com/RyleaStark)
+- 🌐 [Website](https://ryleastark.com)
+- 💬 [X / Twitter](https://x.com/RyleaStark)
