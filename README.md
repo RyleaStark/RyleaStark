@@ -9,7 +9,6 @@
 - Building [Lonks](https://lonks.io), an audience engagement platform and AI-powered toolkit for online creators.
 - Directing [VersoBit](https://github.com/VersoBit), where I build and operate web software and infrastructure.
 - Operating and developing [Fellowsfilm](https://github.com/Fellowsfilm), a long-running simulation community and mod archive.
-- Developing, testing, and sponsoring the [Petio](https://github.com/petio-team) project.
 - Building self-hosted tools such as [lnSwitchboard](https://github.com/RyleaStark/lnSwitchboard) and [Extended Umbrella](https://github.com/RyleaStark/extended-umbrella).
 
 **My focus...**
